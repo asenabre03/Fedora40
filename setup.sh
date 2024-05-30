@@ -27,8 +27,8 @@ clear
 echo "Actualizando sistema y repositorio..."
 sleep 3
 
-#dnf update
-#dnf upgrade -y
+dnf update -y
+dnf upgrade -y
 # ==================================================================================================
 
 
